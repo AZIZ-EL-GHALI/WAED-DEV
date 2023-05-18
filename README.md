@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Chihaoui Waed</h1>
+<h1 align="center">Hi 👋, I'm EL GHALI AZIZ</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 📫 How to reach me **chihaouiwaed@yahoo.com**
+- 📫 How to reach me **ELGHALIAZIZ@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
